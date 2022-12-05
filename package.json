@@ -1,0 +1,24 @@
+{
+  "name": "sample-cloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burkayaktas/Sample-Cloud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burkayaktas/Sample-Cloud/issues"
+  },
+  "homepage": "https://github.com/burkayaktas/Sample-Cloud#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
